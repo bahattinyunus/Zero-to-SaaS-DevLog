@@ -1,27 +1,27 @@
-# Product Specifications: [Project Name]
+# Ürün Spesifikasyonları: [Proje Adı]
 
-## 🌟 Overview
-Briefly describe the SaaS product, its core value proposition, and the problem it solves.
+## 🌟 Genel Bakış
+SaaS ürününü, temel değer önerisini ve çözdüğü sorunu kısaca açıklayın.
 
-## 👤 Target Audience
-Who is this product for? (e.g., developers, small business owners, hobbyists).
+## 👤 Hedef Kitle
+Bu ürün kimin için? (Örn. geliştiriciler, küçük işletme sahipleri, hobi sahipleri).
 
-## ✨ Core Features
-- **MVP Feature 1**: Description...
-- **MVP Feature 2**: Description...
-- **MVP Feature 3**: Description...
+## ✨ Temel Özellikler
+- **MVP Özellik 1**: Açıklama...
+- **MVP Özellik 2**: Açıklama...
+- **MVP Özellik 3**: Açıklama...
 
-## 🛠️ Technical Requirements
-- **Frontend**: e.g., Next.js, React, Tailwind CSS
-- **Backend**: e.g., Node.js, Python, Supabase, Firestore
-- **Database**: e.g., PostgreSQL, MongoDB
-- **Authentication**: e.g., NextAuth, Clerk
+## 🛠️ Teknik Gereksinimler
+- **Frontend**: Örn. Next.js, React, Tailwind CSS
+- **Backend**: Örn. Node.js, Python, Supabase, Firestore
+- **Veritabanı**: Örn. PostgreSQL, MongoDB
+- **Kimlik Doğrulama**: Örn. NextAuth, Clerk
 
-## 🎨 User Experience (UX) & Design
-- Style Guide: (Color palette, typography)
-- Wireframes: (Links to Figma/drawings)
+## 🎨 Kullanıcı Deneyimi (UX) & Tasarım
+- Stil Rehberi: (Renk paleti, tipografi)
+- Wireframe'ler: (Figma bağlantıları veya çizimler)
 
-## 📈 Success Metrics (KPIs)
-- User acquisition...
-- Retention rate...
-- Revenue targets...
+## 📈 Başarı Metrikleri (KPIs)
+- Kullanıcı edinimi...
+- Elde tutma oranı...
+- Gelir hedefleri...

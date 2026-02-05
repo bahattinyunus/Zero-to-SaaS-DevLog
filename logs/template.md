@@ -1,29 +1,29 @@
-# DevLog Entry: [YYYY-MM-DD]
+# Günlük Girişi: [YYYY-AA-GG]
 
-## 🎯 Daily Goals
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+## 🎯 Günlük Hedefler
+- [ ] Hedef 1
+- [ ] Hedef 2
+- [ ] Hedef 3
 
-## 📝 Progress Update
-Describe what was accomplished today. 
+## 📝 İlerleme Özeti
+Bugün nelerin tamamlandığını açıklayın.
 
-### Key Achievements
+### Ana Başarılar
 - ...
 - ...
 
-### Code Snippets / Screenshots
-> Optional: Add interesting code or UI screenshots here.
+### Kod Parçacıkları / Ekran Görüntüleri
+> Opsiyonel: Buraya ilginç kodları veya UI ekran görüntülerini ekleyin.
 
-## 🚧 Challenges & Blockers
-- **Challenge 1**: Description...
-  - *Solution*: ...
-- **Blocker**: ...
+## 🚧 Zorluklar ve Engeller
+- **Zorluk 1**: Açıklama...
+  - *Çözüm*: ...
+- **Engel**: ...
 
-## 📚 Learnings
-- New concept learned: ...
-- Resource link: ...
+## 📚 Öğrenilenler
+- Yeni öğrenilen kavram: ...
+- Kaynak bağlantısı: ...
 
-## ⏭️ Next Steps
+## ⏭️ Sonraki Adımlar
 - [ ] ...
 - [ ] ...

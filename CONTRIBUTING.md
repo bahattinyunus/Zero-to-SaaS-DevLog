@@ -1,26 +1,26 @@
-# Contributing to Zero to SaaS DevLog
+# Sıfırdan SaaS'a Geliştirme Günlüğüne Katkıda Bulunmak
 
-First off, thanks for checking out this journey! Building in public is better with a community.
+Öncelikle bu yolculuğa göz attığınız için teşekkürler! "Build in public" (Açık kaynak geliştirme) süreci bir toplulukla birlikte daha iyidir.
 
-## 🚀 How You Can Help
+## 🚀 Nasıl Yardımcı Olabilirsiniz?
 
-### 1. Identify "Code Smells"
-If you see a snippet in the logs or a technical decision in the spec that looks like a future bottleneck, please open an **Issue**. Explain why you think a different path might be better.
+### 1. "Kod Kokuları"nı (Code Smells) Tespit Edin
+Günlüklerdeki kod parçacıklarında veya spesifikasyonlardaki teknik kararlarda ileride tıkanıklığa yol açabilecek bir durum görürseniz lütfen bir **Issue (Sorun)** açın. Neden farklı bir yolun daha iyi olabileceğini açıklayın.
 
-### 2. Suggest Resources
-Found a great library for SaaS authentication or a marketing framework that works? Link it in an issue!
+### 2. Kaynak Önerin
+SaaS kimlik doğrulaması için harika bir kütüphane veya işe yarayan bir pazarlama çerçevesi mi buldunuz? Bunu bir issue üzerinden paylaşın!
 
-### 3. Report Typos
-The devlog is written "on the go," so typos are bound to happen. Minor PRs for documentation are always welcome.
+### 3. Yazım Hatalarını Bildirin
+Geliştirme günlüğü "hızlıca" yazıldığı için yazım hataları kaçınılmazdır. Dokümantasyon için küçük PR'lar (Çekme İstekleri) her zaman kabul edilir.
 
-## 📋 Guidelines
-- **Be Kind**: This is a learning journey. Constructive criticism is great; negativity is not.
-- **Keep it Relevant**: Focus on SaaS building, architectural decisions, and growth.
+## 📋 Kurallar
+- **Nazik Olun**: Bu bir öğrenme yolculuğudur. Yapıcı eleştiri harikadır; ancak olumsuzluk ve kırıcılık kabul edilmez.
+- **Konuyla İlgili Kalın**: SaaS inşası, mimari kararlar ve büyüme konularına odaklanın.
 
-## 🏗️ Forking This Repo
-You are encouraged to fork this repository to start your own devlog! 
-- Replace the author info in `README.md`.
-- Clear the `logs/` directory (but keep `template.md`).
-- Update `docs/product_specs.md` with your own idea.
+## 🏗️ Bu Repoyu Forklamak
+Kendi geliştirme günlüğünüzü başlatmak için bu depoyu forklamanız (çatallamanız) şiddetle tavsiye edilir! 
+- `README.md` dosyasındaki yazar bilgilerini değiştirin.
+- `logs/` dizinini temizleyin (ancak `template.md` dosyasını saklayın).
+- `docs/product_specs.md` dosyasını kendi fikrinizle güncelleyin.
 
-Happy building!
+İyi inşa süreçleri dilerim!

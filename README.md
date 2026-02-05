@@ -1,91 +1,91 @@
-# 🚀 Zero to SaaS: The Ultimate Builder's Guide & DevLog
+# 🚀 SIFIR'dan SaaS'a: Geliştirici Rehberi ve Günlüğü
 
-Welcome to the **Zero to SaaS** repository. This is not just a devlog; it is a **living blueprint** for building a Software-as-a-Service (SaaS) product from absolute zero to launch.
-
----
-
-## 📖 How to Use This Repository
-This repo is designed as a template and a guide for aspiring solo-founders and engineers.
-
-1.  **Follow the Journey**: Read the [`logs/`](./logs) to see real-world problems and solutions as they happen.
-2.  **Use the Templates**: Copy [`logs/template.md`](./logs/template.md) for your own projects.
-3.  **Define Your Specs**: Use [`docs/product_specs.md`](./docs/product_specs.md) to ground your idea before you write a single line of code.
-4.  **Track Progress**: Use the [Roadmap](#-roadmap) section below to stay disciplined.
+**Sıfırdan SaaS'a (Zero to SaaS)** deposuna hoş geldiniz! Burası sadece bir geliştirme günlüğü değil; bir SaaS ürününü mutlak sıfırdan yayına alma sürecini anlatan **yaşanmış bir blueprint** (plan) niteliğindedir.
 
 ---
 
-## 🌌 Project Vision & Philosophy
+## 📖 Bu Depo Nasıl Kullanılır?
+Bu repo, solo-founder (tek tabanca kurucu) adayları ve mühendisler için bir şablon ve rehber olarak tasarlanmıştır.
+
+1.  **Yolculuğu Takip Edin**: Gerçek dünyadaki problemleri ve çözümleri anlık olarak görmek için [`logs/`](./logs) klasörünü okuyun.
+2.  **Şablonları Kullanın**: Kendi projeleriniz için [`logs/template.md`](./logs/template.md) dosyasını kopyalayın.
+3.  **Özelliklerinizi Belirleyin**: Tek bir satır kod yazmadan önce fikrinizi netleştirmek için [`docs/product_specs.md`](./docs/product_specs.md) dosyasını kullanın.
+4.  **İlerlemeyi İzleyin**: Disiplinli kalmak için aşağıdaki [Yol Haritası](#-yol-haritasi) bölümünü kullanın.
+
+---
+
+## 🌌 Proje Vizyonu ve Felsefesi
 > [!IMPORTANT]
-> **Build in Public**: The goal is transparency. We share the bugs, the failed marketing experiments, and the late-night refactors.
+> **Açık Kaynak Geliştirme (Build in Public)**: Hedef şeffaflıktır. Hataları, başarısız pazarlama denemelerini ve gece yarısı yapılan refactor işlemlerini paylaşıyoruz.
 
-### The SaaS Goal
-- **Problem**: *[Define the problem you are solving]*
-- **Solution**: *[Define your unique solution]*
-- **Revenue Target**: *[Optional: e.g., $1k MRR]*
+### SaaS Hedefi
+- **Problem**: *[Çözdüğünüz problemi buraya tanımlayın]*
+- **Çözüm**: *[Benzersiz çözümünüzü buraya tanımlayın]*
+- **Gelir Hedefi**: *[Opsiyonel: Örn. Aylık 1000$ Gelir]*
 
 ---
 
-## 🛠️ The Tech Stack (The "Modern Solo-Founder" Selection)
-*Chosen for speed, scalability, and developer experience.*
+## 🛠️ Teknoloji Yığıtı (Modern Solo-Founder Seçimi)
+*Hız, ölçeklenebilirlik ve geliştirici deneyimi için seçilmiştir.*
 
-| Layer | Technology | Reason |
+| Katman | Teknoloji | Neden? |
 | :--- | :--- | :--- |
-| **Frontend** | [Next.js](https://nextjs.org/) | SSR, SEO, and fast routing. |
-| **Styling** | [Tailwind CSS](https://tailwindcss.com/) | Rapid UI development. |
-| **Backend** | [Supabase](https://supabase.com/) | Instant Auth, DB, and Edge Functions. |
-| **Payments** | [Stripe](https://stripe.com/) | The gold standard for SaaS billing. |
-| **Analytics** | [PostHog](https://posthog.com/) | Open-source product analytics. |
+| **Frontend** | [Next.js](https://nextjs.org/) | SSR, SEO ve hızlı yönlendirme. |
+| **Stil** | [Tailwind CSS](https://tailwindcss.com/) | Hızlı UI geliştirme. |
+| **Backend** | [Supabase](https://supabase.com/) | Anında Auth, DB ve Edge Functions. |
+| **Ödemeler** | [Stripe](https://stripe.com/) | SaaS faturalandırmasında altın standart. |
+| **Analiz** | [PostHog](https://posthog.com/) | Açık kaynaklı ürün analitiği. |
 
 ---
 
-## 🗺️ Roadmap
-### Phase 1: Foundation (Current)
-- [x] Initial Repository Setup
-- [ ] Market Research & Idea Validation
-- [ ] High-fidelity Wireframes
-- [ ] Project "Product Specs" Document
+## 🗺️ Yol Haritası
+### Aşama 1: Temeller (Mevcut)
+- [x] İlk Depo Kurulumu
+- [ ] Pazar Araştırması & Fikir Doğrulama
+- [ ] Yüksek Sadakatli Tel Çerçeveler (Wireframes)
+- [ ] Proje "Ürün Spesifikasyonları" Dokümanı
 
-### Phase 2: Building the Core
-- [ ] System Architecture Design
-- [ ] Database Schema Setup
-- [ ] Core Logic & API Routes
-- [ ] UI/UX Implementation
+### Aşama 2: Çekirdeği İnşa Etmek
+- [ ] Sistem Mimarisi Tasarımı
+- [ ] Veritabanı Şeması Kurulumu
+- [ ] Çekirdek Mantık & API Rotaları
+- [ ] UI/UX Uygulaması
 
-### Phase 3: Launch & Iteration
-- [ ] Beta User Onboarding
-- [ ] Stripe Integration
-- [ ] Marketing Launch (Product Hunt, IndieHackers)
+### Aşama 3: Lansman ve İterasyon
+- [ ] Beta Kullanıcı Alımı
+- [ ] Stripe Entegrasyonu
+- [ ] Pazarlama Lansmanı (Product Hunt, IndieHackers)
 
 ---
 
-## 📝 DevLog Philosophy
-A good devlog is more than a todo list. It should answer:
-- **What did I do today?**
-- **Why did I do it?** (The decision-making process)
-- **What did I learn?** (Avoid repeating the same mistakes)
+## 📝 Günlük (DevLog) Felsefesi
+İyi bir geliştirme günlüğü bir yapılacaklar listesinden fazlasıdır. Şu soruları yanıtlamalıdır:
+- **Bugün ne yaptım?**
+- **Neden yaptım?** (Karar verme süreci)
+- **Ne öğrendim?** (Aynı hataları tekrarlamaktan kaçınmak için)
 
-### Recent Updates
-| Date | Log Entry | Key Milestone |
+### Güncel Güncellemeler
+| Tarih | Günlük Girişi | Ana Kilometre Taşı |
 | :--- | :--- | :--- |
-| 2026-02-05 | [Initial Setup](./logs/template.md) | Repo initialized with Guide structure |
+| 2026-02-05 | [İlk Kurulum](./logs/template.md) | Repo, Rehber yapısıyla başlatıldı |
 
 ---
 
-## 🤝 Contributing & Community
-Building a SaaS is lonely. Let's make it social. 
-- **Feedback**: Open an Issue if you see a bad architectural decision.
-- **Copy Me**: Feel free to fork this and use the structure for your own SaaS.
+## 🤝 Katkıda Bulunma ve Topluluk
+Bir SaaS inşa etmek yalnız bir yolculuk olabilir. Bunu sosyal hale getirelim. 
+- **Geri Bildirim**: Kötü bir mimari karar görürseniz bir Issue (Sorun) açın.
+- **Beni Kopyalayın**: Bu yapıyı kendi SaaS günlüğünüz için forklayabilir ve kullanabilirsiniz.
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
-
----
-
-## 👤 Author
-- **Name**: [Your Name]
-- **Philosophy**: *Ship fast, learn faster.*
-- **Links**: [Twitter/X](https://x.com/yourhandle) | [GitHub](https://github.com/yourhandle)
+Daha fazla detay için [CONTRIBUTING.md](./CONTRIBUTING.md) dosyasına bakın.
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**. Build on!
+## 👤 Yazar
+- **İsim**: [İsminiz]
+- **Felsefe**: *Hızlı yayınla, daha hızlı öğren.*
+- **Bağlantılar**: [Twitter/X](https://x.com/kullaniciadinizi) | [GitHub](https://github.com/kullaniciadinizi)
+
+---
+
+## 📜 Lisans
+Bu proje **MIT Lisansı** ile lisanslanmıştır. İnşa etmeye devam edin!
