@@ -1,0 +1,29 @@
+# DevLog Entry: [YYYY-MM-DD]
+
+## 🎯 Daily Goals
+- [ ] Goal 1
+- [ ] Goal 2
+- [ ] Goal 3
+
+## 📝 Progress Update
+Describe what was accomplished today. 
+
+### Key Achievements
+- ...
+- ...
+
+### Code Snippets / Screenshots
+> Optional: Add interesting code or UI screenshots here.
+
+## 🚧 Challenges & Blockers
+- **Challenge 1**: Description...
+  - *Solution*: ...
+- **Blocker**: ...
+
+## 📚 Learnings
+- New concept learned: ...
+- Resource link: ...
+
+## ⏭️ Next Steps
+- [ ] ...
+- [ ] ...
